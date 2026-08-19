@@ -1,0 +1,29 @@
+[
+  {
+    "invoice_number": "39519",
+    "customer": "SuperStore",
+    "date": "Feb 19 2012",
+    "ship_mode": "Standard Class",
+    "total": 22.17,
+    "filename": "invoice_Aaron Bergman_39519.pdf",
+    "full_text": "INVOICE\n# 39519\nSuperStore\nBill To\n:\nAaron Bergman\nShip To\n:\n76017, Arlington,\nTexas, United States\nFeb 19 2012\nStandard Class\n$22.17\nDate\n:\nShip Mode\n:\nBalance Due\n:\nItem\nQuantity\nRate\nAmount\nAkro Stacking Bins\n2\n$12.62\n$25.25\nStorage, Office Supplies, OFF-ST-3078\n$25.25\n$5.05\n$1.97\n$22.17\nSubtotal\n:\nDiscount (20%)\n:\nShipping\n:\nTotal\n:\nNotes\n:\nThanks for your business!\nTerms\n:\nOrder ID : CA-2012-AB10015140-40958"
+  },
+  {
+    "invoice_number": "36259",
+    "customer": "Aaron Bergman",
+    "date": "Mar 06 2012",
+    "ship_mode": "First Class",
+    "total": 58.11,
+    "filename": "invoice_Aaron Bergman_36259.pdf",
+    "full_text": "INVOICE\n# 36259\nSuperStore\nBill To\n:\nAaron Bergman\nShip To\n:\n98103, Seattle,\nWashington, United\nStates\nMar 06 2012\nFirst Class\n$58.11\nDate\n:\nShip Mode\n:\nBalance Due\n:\nItem\nQuantity\nRate\nAmount\nNewell 330\n3\n$17.94\n$53.82\nArt, Office Supplies, OFF-AR-5309\n$53.82\n$4.29\n$58.11\nSubtotal\n:\nShipping\n:\nTotal\n:\nNotes\n:\nThanks for your business!\nTerms\n:\nOrder ID : CA-2012-AB10015140-40974"
+  },
+  {
+    "invoice_number": "33399",
+    "customer": "Adrian Hane",
+    "date": "Jul 17 2012",
+    "ship_mode": "Same Day",
+    "total": 860.38,
+    "filename": "invoice_Adrian Hane_33399.pdf",
+    "full_text": "INVOICE\n# 33399\nSuperStore\nBill To\n:\nAdrian Hane\nShip To\n:\n85705, Tucson,\nArizona, United\nStates\nJul 17 2012\nSame Day\n$860.38\nDate\n:\nShip Mode\n:\nBalance Due\n:\nItem\nQuantity\nRate\nAmount\nOffice Star - Ergonomically Designed Knee Chair\n4\n$259.14\n$1,036.54\nChairs, Furniture, FUR-CH-5428\n$1,036.54\n$207.31\n$31.15\n$860.38\nSubtotal\n:\nDiscount (20%)\n:\nShipping\n:\nTotal\n:\nNotes\n:\nThanks for your business!\nTerms\n:\nOrder ID : CA-2012-AH10120140-41107"
+  }
+]
